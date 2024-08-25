@@ -1,4 +1,6 @@
-# Installation instructions:
+# 1.16.1-Potion-Effects
+
+# Installation guide:
 
 1. Click on "Releases" near the right side of the screen
 2. Download the jar file from the release you want under the "Assets" tab (unlike with modded clients, you do not need to download the source code zip files; those only provide the code for the mod and not the runnable file itself)
