@@ -1,6 +1,6 @@
 # Potion-Effects-1.16.1
 
-Forge mod for Minecraft 1.16.1.
+Forge mod for Minecraft 1.16.1. Made for recording videos.
 
 # Installation guide:
 
