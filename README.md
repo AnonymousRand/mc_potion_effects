@@ -1,6 +1,6 @@
 # Potion-Effects
 
-For Minecraft 1.16.1.
+Forge mod for Minecraft 1.16.1.
 
 # Installation guide:
 
@@ -9,4 +9,3 @@ For Minecraft 1.16.1.
 3. Put the jar file into your mods folder in .minecraft (default location of .minecraft can be accessed by pressing WindowsKey + R and typing in "%AppData%" without the quotation marks)
 4. Download and install Minecraft Forge (go to https://files.minecraftforge.net/net/minecraftforge/forge/ and download the installer for the version that you want to use, then run the installer and follow its directions)
 5. Lauch the game using a Forge installation and the mod should be loaded
-6. 
